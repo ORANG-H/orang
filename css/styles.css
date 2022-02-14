@@ -76,7 +76,7 @@ background-color: #C0D8C0;
 padding-top: 0}
 .message{color: #FF6464;
 text-align: left;}
-.last{padding-bottom: 10px;}
+.last{padding-bottom: 10px; padding: 30px;}
 .m{margin :0px;
 text-align: left;
 padding: 10px;}
@@ -105,7 +105,8 @@ color: red;}
 
 .color{color: #fff;
 position: relative;right: 10px;}
-.V-DAY{color: #1572A1}
+.V-DAY{color: #1572A1;
+margin: 0px 20px 20px 20px;}
 .sticker{height: 300px;
 width: 300px;
 padding: 0;
